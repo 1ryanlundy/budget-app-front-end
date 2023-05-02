@@ -62,3 +62,7 @@ input[type="checkbox"] {
 input[type="submit"] {
   width: 30%;
 }
+
+.transactionDetails {
+  text-align: center;
+}
