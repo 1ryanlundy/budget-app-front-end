@@ -7,7 +7,7 @@ function TransactionNewForm() {
     const [transaction, setTransaction] = useState({
         "name": "",
         "date": "",
-        "amount": 0,
+        "amount": NaN,
         "isExpense": false
     });
 

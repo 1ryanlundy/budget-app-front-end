@@ -15,6 +15,11 @@ nav {
   color: azure;
 }
 
+.budgetAppLink {
+  color: azure;
+  text-decoration: none;
+}
+
 .H1-Link {
   color: azure;
 }
@@ -63,6 +68,12 @@ input[type="submit"] {
   width: 30%;
 }
 
+.transactions {
+  text-align: center;
+}
+
 .transactionDetails {
   text-align: center;
 }
+
+.accountTotal span {}
